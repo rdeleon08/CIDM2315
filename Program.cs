@@ -1,0 +1,83 @@
+﻿namespace Homework1;
+class Program
+{
+//     static void Main(string[] args)
+//     {
+//      double X = 2.5;
+//      double Y = 3.3;
+//      double Z = 4*X*X + 3*Y;
+//         Console.WriteLine($"X = {X}; Y = {Y}");
+//         Console.WriteLine ($"The value of Z is: {Z}");
+//     }
+// }
+// using System 
+
+// class MainClass {
+
+//         int a = 10
+//         b = 20;
+//         int c;
+//         c = a+b;
+//         Console.WriteLine(C);
+//     }
+// }using System 
+// class MainClass {
+//     public static void Main (string[] args) {
+//         Console.Write("CIDM2315\\t");
+//         Console,WriteLine(Hello\nWorld\nWT");
+
+
+        
+//     //hardcore username and password
+//     string username = "alice";
+//     string password = "alice123";
+//     Console.WriteLine("Please input username and password");
+//     string input_username = Console.ReadLine();
+//     string input_password = Console.ReadLine();
+//     if ((input_username == input_username) && (password == input_password)){
+//         Console.WriteLine("Login successfully!");
+//     }
+//     else{
+//         Console.WriteLine("Please check your username/password");
+// }
+
+
+
+}   string letterGrade = Console.WriteLine();
+
+ // Q1
+ // 1. get letter grade from Console.readLine()
+  string letterGrade = Console.WriteLine();
+ // 2. using switch 
+ switch(letterGrade){
+     case "A":
+        Console.WriteLine("GPA point: 4");
+    case "B":
+        Console.WriteLine("GPA point: 4");
+        Console.WriteLine("Wrong Letter Grade");
+        //add cases for letterGrade C, D, F, 
+        // use default to print "Wrong Letter Grade"
+ }
+
+
+
+
+{
+        // Q2:
+
+        string n1 = Console.ReadLine();
+        int num1 = Convert.ToInt16(n12);
+        string n2 = Console.ReadLine();
+        int num2 = Convert.ToInt16(n11);
+        string n3 = Console.ReadLine();
+        int num3 = Convert.ToInt16(n14);
+        
+ }  if((The Smallest Value;))
+
+ Console.readLine(The Smallest Value is 11)
+
+
+
+
+
+            
